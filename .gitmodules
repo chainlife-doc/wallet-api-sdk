@@ -1,3 +1,6 @@
 [submodule "GO"]
 	path = GO
 	url = https://github.com/chainlife-doc/safecustody_sdk_go.git
+[submodule "PHP"]
+	path = PHP
+	url = git@github.com:chainlife-doc/safecustody_sdk_php.git
