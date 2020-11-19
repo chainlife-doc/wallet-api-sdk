@@ -7,3 +7,6 @@
 [submodule "PYTHON"]
 	path = PYTHON
 	url = git@github.com:chainlife-doc/safecustody_sdk_python.git
+[submodule "NODE"]
+	path = NODE
+	url = git@github.com:chainlife-doc/safecustody_sdk_node.git
