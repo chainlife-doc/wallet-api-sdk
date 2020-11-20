@@ -10,3 +10,6 @@
 [submodule "NODE"]
 	path = NODE
 	url = git@github.com:chainlife-doc/safecustody_sdk_node.git
+[submodule "JAVA"]
+	path = JAVA
+	url = git@github.com:chainlife-doc/safecustody_sdk_java.git
